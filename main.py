@@ -40,6 +40,6 @@ if first == 'left':
     else:
       print("You get attacked by an angry trout. Game Over.")
   else:
-    print("You lost the game because you're a little bitch")
+    print("You lost the game because you don't have enough money")
 else:
-  print("You lost the game because you're a little bitch")
+  print("You lost the game because you fell in a hole")
